@@ -5,8 +5,6 @@
 使用的获取音乐的api网址：https://neteasecloudmusicapi.vercel.app/#/?id=neteasecloudmusicapi
 
 
-# hmplayer
-
 ## Project setup
 ```
 npm install
@@ -22,5 +20,3 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
